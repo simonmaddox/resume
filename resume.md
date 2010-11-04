@@ -46,11 +46,11 @@ I was required to build a stable infrastructure while could interface with
 carrier billing networks and SMS gateways, all while working on as many
 devices as possible.
 
-While at GoSpoken, I regularly contributed to the [WURFL project](http://wurfl.sourceforge.net/)
+I regularly contributed to the [WURFL project](http://wurfl.sourceforge.net/)
 and represented the company at a large number of events and conferences.
 
-At the time of writing, GoSpoken has gone through two multi-million rounds of
-investment based on the infrastructure that I wrote.
+At the time of writing, GoSpoken has gone through two multi-million pound
+rounds of investment based on the infrastructure that I wrote.
 
 ## Education
 
