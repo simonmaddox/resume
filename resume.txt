@@ -1,93 +1,61 @@
-# Nathaniel Welch
+# Simon Maddox
 
- * <nat@natwelch.com>
- * <http://natwelch.com>
- * 707-799-8675
+ * <simon@simonmaddox.com>
+ * <http://simon.io>
 
 ## Background
 
-I am a current student of Computer Science at Cal Poly with an interest in
-communication and design. I am a big believer in experimenting with new things
-to expand my knowledge both professionally and recreationally. I strive to be a
-quick learner and both a competent leader and capable worker. I am an Eagle
-Scout and was an active officer of the Cal Poly Linux Users Group for three
-years. I was awarded Cal Poly's Residence Hall Council member of the year for
-both 2006 and 2007.
+I am a freelance mobile developer with experience in building applications for
+most platforms. Since graduating from University, I have worked with some of
+the biggest brands and agencies in the world, producing hit mobile products or
+helping to define mobile strategy.
 
-## Education
+I have built and released one of the most popular iOS apps in the UK - 0870 - 
+which, to date, has saved consumers over £11 million. It has been featured in
+a wide variety of the UK press, including The Guardian, The Sunday Times, The
+Telegraph, T3 Magazine, and many more.
 
-Computer Science, B.S.  
-Fall 2006 - Spring 2011  
-California Polytechnic State University, San Luis Obispo  
-
-## Systems Proficiency
-
-**Programming Languages**
-
- > Proficient in:  PHP, Ruby, SML/NJ, HTML, CSS, JavaScript, C, Java, SQL (MySQL, SQLite), Bash
-
- > Experience with: F#, Python, C++, MongoDB
-
-**Software**
-
- > I have experience using most modern development tools including Eclipse, Vim, Git and SVN. I have been using Linux for both personal and server use since 2002. I am also capable of using the majority of the Adobe Creative Suite.
+I have also been featured in Wired magazine as an iPhone developer "expert".
 
 ## Experience
 
-### iFixit.com, San Luis Obispo CA
+### Sensible Duck Ltd
 
-#### Software Developer
+#### Mobile Developer
 
-##### April 2009 - Present
+##### September 2009 - Present
 
-I wear a variety of hats including -- but not limited to -- writing code to promote high quality content and a stable community, helping keep servers afloat, and working with users to develop content. I write code mainly in PHP and Bash, and almost all of our servers are on Amazon's EC2 Service. 
+My own company, specialising in mobile development and strategy. I've worked
+with agencies such as AKQA, AMV BBDO and VCCP as well as a number of 
+household brands.
 
- * Helped create a site-wide reputation community, which began with [iFixit.com/Answers](http://ifixit.com/Answers)
- * Helped maintain various servers, located on Amazon EC2, and local development machines
+I have recently been working with News Corporation to build an innovative
+digital publishing initiative.
 
-### Adobe Systems Incorporated, San Francisco CA
+### GoSpoken
 
-#### Dreamweaver QE Intern
+#### Developer
 
-##### Summer 2007 and 2008
+##### May 2007 - August 2009
 
- * Tested both daily builds and released versions of Dreamweaver against various operating systems -- including Mac OSX 10.4, Mac OSX 10.5, Windows Vista, and Windows XP.
- * Helped maintain the Server Matrix, Bug-base, and test a new test case Application
- * Helped develop and test the Web Widgets Feature for Dreamweaver CS4.
+While at GoSpoken, I architected and built an e-commerce platform based
+around selling various types of literary content to mobile devices,
+including e-books, audio books and physical books.
 
-<!--
-### California Polytechnic State University, San Luis Obispo CA
+I was required to build a stable infrastructure while could interface with
+carrier billing networks and SMS gateways, all while working on as many
+devices as possible.
 
-#### Computer Science Lab Monitor
+While at GoSpoken, I regularly contributed to the [WURFL project](http://wurfl.sourceforge.net/)
+and represented the company at a large number of events and conferences.
 
-##### Sept. 2006 to June 2007
+At the time of writing, GoSpoken has gone through two multi-million rounds of
+investment based on the infrastructure that I wrote.
 
- * Maintained printers and computers for seven labs.
+## Education
 
-### Sonoma County Information Systems Department, Santa Rosa CA
+Forensic Computing BSC (Hons)	
+2005 - 2009 	
+Staffordshire University	
 
-#### Intern
-
-##### June 2005 to Sept. 2005
- 
- * Built and maintained three separate websites, one dealing with unions, one system uptime web application, and one error reporting web form.
--->
-
-### BSA Camp Oljato, Lakeshore CA
-
-#### Nature Director
-
-##### Summer 2006
-
- * In charge of four staff members and responsible for planning the activities behind and maintaining the entire Nature area at camp, with an average of about 200 kids every week for seven weeks.
- * Updated and revised the Forest Management Plan and organized conservation projects throughout camp.
-
-#### Camp Counselor
-
-##### Summer 2002, 2003 and 2004
-
- * Took care of children ages ten to eighteen and responsible for creating and planning daily schedules for my classes.
- * Taught merit badge classes such as wilderness survival, camping, hiking, and others.
- * Dealt with their scoutmasters, which were usually older adults around the age of 40 to 60
- * Dealt with medical emergencies ranging from altitude sickness and dehydration to broken ribs.
-
+**Dissertation**: Tracking Users on the Mobile Web
