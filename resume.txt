@@ -15,7 +15,9 @@ which, to date, has saved consumers over £11 million. It has been featured in
 a wide variety of the UK press, including The Guardian, The Sunday Times, The
 Telegraph, T3 Magazine, and many more.
 
-I have also been featured in Wired magazine as an iPhone developer "expert".
+I have been featured in Wired magazine as an iPhone developer "expert", and
+have worked with Microsoft in briefing journalists on development during
+the Windows Phone 7 launch.
 
 ## Experience
 
@@ -59,3 +61,46 @@ Forensic Computing BSC (Hons)
 Staffordshire University	
 
 **Dissertation**: Tracking Users on the Mobile Web
+
+## Apps
+
+Apps I've worked on include:
+
+### 0870
+After 429 days "In Review" at Apple, 0870 launched to a great press reception.
+It has been downloaded over half a million times, and has been talked about in
+presentations at conferences by notable people like the CEO of PayPal Europe, 
+Renier Lemmens.
+
+Available for: iPhone, Android, WebOS, Windows Phone 7
+
+## Push The Page
+What started as a weekend project at [HackCamp London](http://london.hackcamp.org.uk/)
+turned into a fairly successful app. With thousands of users, Push The Page
+enables you to quickly send a URL from your computer to your iPhone.
+
+Available for: iPhone, iPad
+
+## Bardowl
+Launching soon, [Bardowl](http://bardowl.com) is an innovative take on 
+audiobooks. See the website for more details.
+
+Available for: iPhone
+
+## iSimples
+Built for VCCP, iSimples rocketed to the top of the UK charts on release. 
+Featuring Alexandr the Meerkat, iSimples started out as a simple soundboard
+containing some well known, and also some exclusive, phrases and soundbites
+from the popular TV adverts. The second release introduced an innovative
+"Mongoose Detector" and a hidden "Mongoose Invaders" game.
+
+Available for: iPhone
+
+## Nike presents Master Control
+Built for AKQA, this extremely popular app included a video training session
+by one of the most well known footballers in the world.
+
+## LOVEFiLM
+I provided support to Techlightenment's team during the development
+process of the LOVEFiLM iPhone app.
+
