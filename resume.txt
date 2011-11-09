@@ -1,19 +1,19 @@
 # Simon Maddox
 
- * <simon@simonmaddox.com>
- * <http://simon.io>
+ - <simon@simonmaddox.com>
+ - [@simonmaddox](http://twitter.com/simonmaddox)
+ - [GitHub](http://github.com/simonmaddox)
 
 ## Background
 
-I am a freelance mobile developer with experience in building applications for
-most platforms. Since graduating from University, I have worked with some of
-the biggest brands and agencies in the world, producing hit mobile products or
-helping to define mobile strategy.
+I am a mobile developer with lots of experience in building applications for 
+most platforms. I have worked with some of the biggest brands and agencies in 
+the world, producing hit mobile products and helping to define mobile strategy.
 
 I have built and released one of the most popular iOS apps in the UK - 0870 - 
-which, to date, has saved consumers over £11 million. It has been featured in
-a wide variety of the UK press, including The Guardian, The Sunday Times, The
-Telegraph, T3 Magazine, and many more.
+which, to date, has saved consumers over &pound;15 million. It has been featured 
+in a wide variety of the UK press, including The Guardian, The Sunday Times, The
+Telegraph, T3 Magazine, and many many more.
 
 I have been featured in Wired magazine as an iPhone developer "expert", and
 have worked with Microsoft in briefing journalists on development during
@@ -21,18 +21,35 @@ the Windows Phone 7 launch.
 
 ## Experience
 
+### Telefonica O2 Ltd
+
+#### Do'er of New Stuff
+
+#### April 2011 - Present
+
+Working in 'The Lab' to design and build a new communications product for O2.
+O2 Connect is a Voice Over IP app for iOS, Android and other platforms (not 
+announced) which allows users to use their phone for calls, SMS and voicemail
+even if they have no signal (everything goes over Wifi).
+
+O2 Connect went from conception to beta launch in under 100 days, required 
+significant changes to the O2 core network and received lots of positive press.
+
+I am the lead client developer on O2 Connect, and have had a major role in
+defining what O2 Connect is and exactly how it works.
+
 ### Sensible Duck Ltd
 
 #### Mobile Developer
 
-##### September 2009 - Present
+##### September 2009 - April 2011
 
 My own company, specialising in mobile development and strategy. I've worked
 with agencies such as AKQA, AMV BBDO and VCCP as well as a number of 
-household brands.
+multinational household brands.
 
-I have recently been working with News Corporation to build an innovative
-digital publishing initiative.
+I have spent 5 months with News Corporation building an innovative digital
+publishing initiative.
 
 ### GoSpoken
 
@@ -64,28 +81,22 @@ Staffordshire University
 
 ## Apps
 
-Apps I've worked on include:
+Apps I've worked on (that I can talk about) include:
 
 ### 0870
 After 429 days "In Review" at Apple, 0870 launched to a great press reception.
-It has been downloaded over half a million times, and has been talked about in
+It has been downloaded over 700,000 times, and has been talked about in
 presentations at conferences by notable people like the CEO of PayPal Europe, 
 Renier Lemmens.
-
-Available for: iPhone, Android, WebOS, Windows Phone 7
 
 ### Push The Page
 What started as a weekend project at [HackCamp London](http://london.hackcamp.org.uk/)
 turned into a fairly successful app. With thousands of users, Push The Page
 enables you to quickly send a URL from your computer to your iPhone.
 
-Available for: iPhone, iPad
-
 ### Bardowl
 Launching soon, [Bardowl](http://bardowl.com) is an innovative take on 
 audiobooks. See the website for more details.
-
-Available for: iPhone
 
 ### iSimples
 Built for VCCP, iSimples rocketed to the top of the UK charts on release. 
@@ -94,8 +105,6 @@ containing some well known, and also some exclusive, phrases and soundbites
 from the popular TV adverts. The second release introduced an innovative
 "Mongoose Detector" and a hidden "Mongoose Invaders" game.
 
-Available for: iPhone
-
 ### Nike presents Master Control
 Built for AKQA, this extremely popular app included a video training session
 by one of the most well known footballers in the world.
@@ -103,4 +112,3 @@ by one of the most well known footballers in the world.
 ### LOVEFiLM
 I provided support to Techlightenment's team during the development
 process of the LOVEFiLM iPhone app.
-
